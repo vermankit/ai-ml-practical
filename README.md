@@ -1,4 +1,4 @@
-AI / ML Practice
+AI / ML Practice Project
 
 Examples include:
 
